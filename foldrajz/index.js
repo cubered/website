@@ -208,32 +208,7 @@ const q = [
 				correct: false
 			}
         ]
-    },
-	{
-		question: "11. Melyik USA állam ezek közül?",
-		answers: [
-		{
-			text: "Magyarország",
-			correct: false
-		},
-		{
-			text: "Svédország",
-			correct: false
-		},
-		{
-			text: "Lengyelország",
-			correct: false
-		},
-		{
-			text: "Idaho",
-			correct: true
-		},
-		{
-			text: "Kína",
-			correct: false
-		},
-		]
-	}
+    }
 ]
 
 let score = 0
