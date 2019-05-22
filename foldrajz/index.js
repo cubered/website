@@ -1,6 +1,6 @@
 const q = [
     {
-        question: "1. Melyik égtáj nincs benn egyik gazdasági körzet nevében sem? (USA)",
+        question: "1. Melyik égtáj nincs benne egyik gazdasági körzet nevében sem? (USA)",
         answers: [
             {
                 text: "Észak",
@@ -42,7 +42,7 @@ const q = [
         ]
     },
     {
-        question: '3. Miről "híres" Los Santos?',
+        question: '3. Miről "híres" Los Alamos?',
         answers: [
             {
                 text: "Vegyipar",
@@ -200,7 +200,7 @@ const q = [
                 correct: true
             },
             {
-                text: "Kereszények",
+                text: "Keresztények",
                 correct: false
             },
             {
