@@ -173,7 +173,7 @@ const q = [
         ]
     },
     {
-        question: "10. Mely ezköz kedvelt a költői nyelvben",
+        question: "10. Mely ezköz kedvelt a költői nyelvben?",
         answers: [
             {
                 text: "Metafora",
