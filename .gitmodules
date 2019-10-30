@@ -1,0 +1,3 @@
+[submodule "quiz"]
+	path = quiz
+	url = https://github.com/cubered/quiz.git
